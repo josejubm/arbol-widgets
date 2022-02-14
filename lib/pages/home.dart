@@ -76,6 +76,8 @@ class _HomeState extends State<Home> {
                           width: 20.0,
                         ),
                         Divider(),
+                        Text('Jose Manuel Bautista Morales'),
+                        Divider(),
                         Row(
                           children: <Widget>[
                             CircleAvatar(
